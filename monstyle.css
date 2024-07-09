@@ -1,0 +1,39 @@
+/*-- scss:defaults --*/
+.red { color: red; }
+
+.blockquote {
+    font-size: 32px;
+    margin-left: 100px;
+    font-style: italic;
+    color: #10ae9b;
+}
+
+.bottom {
+    position: absolute; 
+    bottom: 10px; 
+    width: 100%; 
+    text-align: center;
+}
+
+.v-center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.reveal .slide-logo {
+  display: block;
+  position: fixed;
+  bottom: unset !important;
+  right: unset !important;
+  top: 5px;
+  left: 12px;
+  height: 100px !important;
+  width: 100x !important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
+
+.reveal .footer {
+   color: #000 !important;
+}

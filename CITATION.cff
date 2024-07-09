@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Formadoct, formation des doctorants à l'information scientifique et technique
+    given-names: 
+    orcid: 
+title: "le graphe de la visibilité"
+version: 2.0.4
+identifiers:
+  - type: 
+    value: 
+date-released: 2024-07-09
