@@ -24,7 +24,7 @@ record_types:
   entrepôt de données:
     fill: "#ce9b04"
     stroke: "#858585"
-  entrepôt de publication:
+  entrepôt de publications:
     fill: "#fffcc8"
     stroke: "#858585"
   entrepôt de code source:
