@@ -12,6 +12,30 @@ record_types:
   undefined:
     fill: "#858585"
     stroke: "#858585"
+  réseau social:
+    fill: "#7bdb3f"
+    stroke: "#858585"
+  document scientifique:
+    fill: "#f23524"
+    stroke: "#858585"
+  identifiant unique: 
+    fill: "#b5b5b5"
+    stroke: "#858585"
+  outil de partage:
+    fill: "#ce9b04"
+    stroke: "#858585"
+  index: 
+    fill: "#c9c9c9"
+    stroke: "#858585"
+  archive: 
+    fill: "#e837d3"
+    stroke: "#858585"
+  gestionnaire de références: 
+    fill: "#b470ef"
+    stroke: "#858585"
+  pages personnelles:
+    fill: "#4e7ac2"
+    stroke: "#858585"
 link_types:
   undefined:
     stroke: simple

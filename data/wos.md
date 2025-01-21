@@ -1,7 +1,7 @@
 ---
 title: "Web Of Science"
 types:
-  - "base bibliométrique"
+  - index
 tags:
   - "bibliométrie"
 thumbnail: WOS.jpg

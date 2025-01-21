@@ -1,8 +1,7 @@
 ---
 title: Zenodo
 types:
-  - "répertoire de publications"
-  - "répertoire de données"
+  - outil de partage
 tags:
   - "communication scientifique"
 thumbnail: zenodo.png

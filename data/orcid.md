@@ -1,7 +1,7 @@
 ---
 title: ORCID
 types:
-  - "identifiant unique"
+  - identifiant unique
 tags:
   - "identifiant de chercheur"
 thumbnail: orcid.png

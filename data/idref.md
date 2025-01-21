@@ -1,7 +1,7 @@
 ---
 title: idref
 types:
-  - identifiant
+  - identifiant unique
 tags:
   - identifiant de chercheur
 thumbnail: idref.png 

@@ -1,7 +1,7 @@
 ---
 title: forge
 types:
-  - répertoire
+  - outil de partage
 tags:
   - code source
 thumbnail: github.png

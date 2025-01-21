@@ -1,7 +1,7 @@
 ---
 title: Scopus
 types:
-  - "base bibliométrique"
+  - index
 tags:
   - "bibliométrie"
 thumbnail: scopus.jpg

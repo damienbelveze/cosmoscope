@@ -1,7 +1,7 @@
 ---
 title: OpenAlex
 types:
-  - "base bibliométrique"
+  - index
 tags:
   - "bibliométrie"
 thumbnail: openalex.jpg

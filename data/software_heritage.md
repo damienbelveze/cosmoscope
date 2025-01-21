@@ -1,7 +1,7 @@
 ---
 title: "Software Heritage"
 types:
-  - "archive de code source"
+  - archive
 tags:
   - archive ouverte
   - code source

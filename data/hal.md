@@ -1,7 +1,7 @@
 ---
 title: HAL
 types:
-  - "répertoire de publications"
+  - archive
 tags:
   - "répertoire scientifique"
   - "archive ouverte"

@@ -1,7 +1,7 @@
 ---
 title: Zotero
 types:
-  - "gestionnaire de références"
+  - gestionnaire de références
 tags:
   - bibliographie
   - "liste de publications"

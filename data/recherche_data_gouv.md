@@ -1,7 +1,7 @@
 ---
 title: "Recherche Data Gouv"
 types:
-  - "répertoire de publications"
+  - outil de partage
 tags:
   - "répertoire scientifique"
   - "archive ouverte"

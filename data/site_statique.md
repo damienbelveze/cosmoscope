@@ -1,7 +1,7 @@
 ---
 title: "site statique"
 types:
-  - "pages personnelles"
+  - pages personnelles
 tags:
   - "communication scientifique"
 thumbnail: site_statique.jpg
