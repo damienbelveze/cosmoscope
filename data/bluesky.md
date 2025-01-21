@@ -5,7 +5,7 @@ types:
 tags:
   - communication scientifique
   
-thumbnail: bluesky.png
+thumbnail: bluesky.jpg
 ---
 
 Réseau appartenant à un organisme à but lucratif dont le protocole (AT) est ouvert. 

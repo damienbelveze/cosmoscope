@@ -5,7 +5,7 @@ types:
 tags: 
   - communication scientifique
   
-thumbnail: linkedin.png
+thumbnail: linkedin.jpg
 ---
 
 LinkedIn est un réseau social propriétaire axé sur les carrières professionnelles.
