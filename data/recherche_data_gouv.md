@@ -1,10 +1,10 @@
 ---
 title: "Recherche Data Gouv"
 types:
-  - outil de partage
+  - entrepôt de données
 tags:
-  - "répertoire scientifique"
   - "archive ouverte"
+  - FAIR
 thumbnail: RDG.jpg
 ---
 

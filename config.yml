@@ -21,10 +21,16 @@ record_types:
   identifiant unique: 
     fill: "#b5b5b5"
     stroke: "#858585"
-  outil de partage:
+  entrepôt de données:
     fill: "#ce9b04"
     stroke: "#858585"
-  index: 
+  entrepôt de publication:
+    fill: "#fffcc8"
+    stroke: "#858585"
+  entrepôt de code source:
+    fill: "##019702"
+    stroke: "#858585"
+  index bibliométrique: 
     fill: "#c9c9c9"
     stroke: "#858585"
   archive: 

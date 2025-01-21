@@ -1,7 +1,7 @@
 ---
 title: "Google Scholar"
 types:
-  - index
+  - index bibliométrique
 tags:
   - bibliométrie
 thumbnail: scholar.png
